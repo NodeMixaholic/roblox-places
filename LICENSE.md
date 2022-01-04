@@ -8,6 +8,6 @@
 
 * If you change the source code, it is recommended that you share the source code with others, attributing it to your team as shown above. However, you do not have to.
 
-* Do not republish the work in its original form from ROBLOX Studio or another platform's equivalent.
+* Do not republish the work without at least 3 major changes from the previous group of attributions from ROBLOX Studio or another platform's equivalent.
 
 * With the exception(s) of the reasons stated above, all rights are reserved to Samuel Lord.
