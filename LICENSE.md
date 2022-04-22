@@ -1,4 +1,4 @@
-# Samuel Lord's Simple ROBLOX License.
+# Samuel Lord's Simple ROBLOX License. (v2)
 
 * Only use the files for educational and republishing purposes.
 
@@ -11,3 +11,5 @@
 * Do not republish the work without at least 3 major changes from ROBLOX Studio or another platform's equivalent.
 
 * With the exception(s) of the reasons stated above, all rights are reserved to Samuel Lord.
+
+* Reshare changes online.
