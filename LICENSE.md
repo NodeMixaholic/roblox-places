@@ -12,4 +12,4 @@
 
 * With the exception(s) of the reasons stated above, all rights are reserved to Samuel Lord.
 
-* Reshare changes online.
+* Reshare your version of the source online.
